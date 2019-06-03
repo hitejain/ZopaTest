@@ -40,9 +40,9 @@ Prerequisites
 
 # Report 
 - Html report will get generated at:
-Zopa/final/Zopa_Test/target/cucumber-report/cucumber/index.html
+  Zopa_Test/target/cucumber-report/cucumber/index.html
 - CSV will get generated at:
-Zopa/final/Zopa_Test/target/cucumber-report/cucumber/RandomCurrencies.csv
+  Zopa_Test/target/cucumber-report/cucumber/RandomCurrencies.csv
 
 # Author
 Hitesh
